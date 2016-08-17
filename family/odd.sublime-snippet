@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
++odd
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>odd items</description>
+</snippet>

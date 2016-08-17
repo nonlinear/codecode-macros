@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
++unique
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>unique items</description>
+</snippet>

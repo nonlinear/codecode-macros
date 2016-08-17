@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
++last-of($1)
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>last-of items</description>
+</snippet>
