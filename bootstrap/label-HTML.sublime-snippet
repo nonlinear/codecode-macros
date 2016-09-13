@@ -2,6 +2,6 @@
   <content><![CDATA[
 <span class="label label-${2:default|primary|success|info|warning|danger}">${1:content}</span>
 ]]></content>
-  <tabTrigger>label</tabTrigger>
+  <tabTrigger>bt-label</tabTrigger>
   <description>Label HTML bootstrap</description>
 </snippet>

@@ -4,6 +4,6 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
 ]]>
   </content>
-  <tabTrigger>bootstrap</tabTrigger>
+  <tabTrigger>bt-bootstrap</tabTrigger>
   <description>bootstrap CSS hook</description>
 </snippet>

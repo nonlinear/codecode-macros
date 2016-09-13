@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
++odd-between($1, $2)
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>odd-between object</description>
+</snippet>

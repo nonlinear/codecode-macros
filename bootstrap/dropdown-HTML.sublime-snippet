@@ -7,11 +7,11 @@ ${9:<!-- for divider, use <li class="divider"></li> -->
   </a>
   <ul class="dropdown-menu">
     <li><a href="${6:#}">${3:First option}</a></li>
-    <li><a href="${7:#}">${4:{Second Option}</a></li>
+    <li><a href="${7:#}">${4:Second Option}</a></li>
     <li><a href="${8:#}">${5:Third Option}</a></li>
   </ul>
 </div>
 ]]></content>
-  <tabTrigger>dropdown</tabTrigger>
+  <tabTrigger>bt-dropdown</tabTrigger>
   <description>Dropdown HTML bootstrap</description>
 </snippet>

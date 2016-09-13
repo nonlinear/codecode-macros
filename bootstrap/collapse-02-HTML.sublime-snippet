@@ -4,6 +4,6 @@
 ${2:collapse panels here}
 </div>
 ]]></content>
-  <tabTrigger>collapse</tabTrigger>
+  <tabTrigger>bt-collapse</tabTrigger>
   <description>Collapse group HTML bootstrap</description>
 </snippet>

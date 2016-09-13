@@ -9,6 +9,6 @@
   </div>
 </div>
 ]]></content>
-  <tabTrigger>collapse</tabTrigger>
+  <tabTrigger>bt-collapse</tabTrigger>
   <description>Collapse panel HTML bootstrap</description>
 </snippet>

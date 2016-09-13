@@ -5,6 +5,6 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.js"></script>
 ]]>
   </content>
-  <tabTrigger>bootstrap</tabTrigger>
+  <tabTrigger>bt-bootstrap</tabTrigger>
   <description>bootstrap JS hook</description>
 </snippet>

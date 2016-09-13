@@ -12,6 +12,6 @@ checkbox, radio:
   ${1:buttons here}
 </div>
 ]]></content>
-  <tabTrigger>button</tabTrigger>
+  <tabTrigger>bt-button</tabTrigger>
   <description>Button group HTML bootstrap</description>
 </snippet>

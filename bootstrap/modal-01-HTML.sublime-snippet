@@ -2,6 +2,6 @@
   <content><![CDATA[
 <a href="#" data-toggle="modal" data-target="#${1:myModal}" ${3:data-backdrop="static"}>${2:Modal trigger}</a>
     ]]></content>
-    <tabTrigger>modal</tabTrigger>
+    <tabTrigger>bt-modal</tabTrigger>
     <description>Modal trigger HTML bootstrap</description>
   </snippet>

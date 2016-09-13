@@ -2,6 +2,6 @@
   <content><![CDATA[
 <span class="badge${2: pull-right}">${1:content}</span>
 ]]></content>
-  <tabTrigger>badge</tabTrigger>
+  <tabTrigger>bt-badge</tabTrigger>
   <description>Badge HTML bootstrap</description>
 </snippet>
