@@ -1,9 +1,0 @@
-<snippet>
-  <content>
-<![CDATA[
-+last($1)
-]]>
-  </content>
-  <tabTrigger>family</tabTrigger>
-  <description>last object</description>
-</snippet>
