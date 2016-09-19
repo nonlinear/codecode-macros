@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+${2:// 01 to 12 loaders, reference at https://matejkustec.github.io/SpinThatShit/
+}+loader${1:01}
+]]>
+  </content>
+  <tabTrigger>loader</tabTrigger>
+  <description>SASS loader</description>
+</snippet>
