@@ -1,0 +1,12 @@
+<snippet>
+  <content>
+<![CDATA[
+<textarea id="${1:id}">$2</textarea>
+<button class="btn" type="button" data-clipboard-demo data-clipboard-target="#${1:id}">
+${3:Copy to Clipboard}
+</button>
+]]>
+  </content>
+  <tabTrigger>clipboard</tabTrigger>
+  <description>clipboard textarea</description>
+</snippet>
