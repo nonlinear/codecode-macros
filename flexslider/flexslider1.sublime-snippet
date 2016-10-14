@@ -1,0 +1,15 @@
+<snippet>
+  <content>
+<![CDATA[
+<div class="flexslider">
+  <ul class="slides">
+    ${1:// one li per page, repeat as needed}<li>$2</li>
+    <li>$3</li>
+    <li>$4</li>
+  </ul>
+  </div>
+]]>
+  </content>
+  <tabTrigger>flexslider</tabTrigger>
+  <description>flexslider gallery</description>
+</snippet>
