@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
++for-big-desktop-up
+    $1
+]]>
+  </content>
+  <tabTrigger>for</tabTrigger>
+  <description>big-desktop-up sensible bp</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
++for-tablet-portrait-only
+    $1
+]]>
+  </content>
+  <tabTrigger>for</tabTrigger>
+  <description>tablet-portrait-only sensible bp</description>
+</snippet>

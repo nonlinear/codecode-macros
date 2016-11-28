@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
++for-tablet-landscape-up
+    $1
+]]>
+  </content>
+  <tabTrigger>for</tabTrigger>
+  <description>tablet-landscape-up sensible bp</description>
+</snippet>

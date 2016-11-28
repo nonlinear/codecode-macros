@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
++for-phone-only
+    $1
+]]>
+  </content>
+  <tabTrigger>for</tabTrigger>
+  <description>iphone-only sensible bp</description>
+</snippet>

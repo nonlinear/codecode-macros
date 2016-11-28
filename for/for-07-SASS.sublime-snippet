@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
++for-desktop-only
+    $1
+]]>
+  </content>
+  <tabTrigger>for</tabTrigger>
+  <description>desktop-only sensible bp</description>
+</snippet>
